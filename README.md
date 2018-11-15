@@ -14,3 +14,8 @@ The subfolder pft contains the sensitivity analysis for each simulation divided 
 The subfolder run contains the setup for each ED2 run to ease replication.
 
 The folder root contains the R output files from which the figures in the article were drawn from.
+
+
+Manuscript status:  In review <br>
+DOI: not yet assigned <br>
+Funding agency: NASA Terrestrial Ecology <br>
