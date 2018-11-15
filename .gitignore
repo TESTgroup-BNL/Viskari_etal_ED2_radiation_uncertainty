@@ -1,6 +1,8 @@
 # Mac OSX junk
 .DS_Store
 .DS_store
+._.DS_Store
+._README
 
 # History files
 .Rhistory
