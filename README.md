@@ -15,7 +15,7 @@ The subfolder run contains the setup for each ED2 run to ease replication.
 
 The folder root contains the R output files from which the figures in the article were drawn from.
 
-
-Manuscript status:  In review <br>
-DOI: not yet assigned <br>
-Funding agency: NASA Terrestrial Ecology <br>
+Citation:
+Viskari, T., A. Shiklomanov, M. C. Dietze, and S. P. Serbin. 2019. The influence of canopy radiation parameter uncertainty on model projections of terrestrial carbon and energy cycling. Plos One 14:e0216512.
+DOI: https://doi.org/10.1371/journal.pone.0216512 <br>
+Funding agency: NASA Terrestrial Ecology, NNX14AH65G <br>
