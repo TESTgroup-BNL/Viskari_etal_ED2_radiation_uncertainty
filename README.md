@@ -19,3 +19,6 @@ Citation:
 Viskari, T., A. Shiklomanov, M. C. Dietze, and S. P. Serbin. 2019. The influence of canopy radiation parameter uncertainty on model projections of terrestrial carbon and energy cycling. Plos One 14:e0216512. <br>
 DOI: https://doi.org/10.1371/journal.pone.0216512 <br>
 Funding agency: NASA Terrestrial Ecology, NNX14AH65G <br>
+
+Zenodo Archive DOI
+[![DOI](https://zenodo.org/badge/157219021.svg)](https://zenodo.org/badge/latestdoi/157219021)
