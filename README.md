@@ -20,5 +20,5 @@ Viskari, T., A. Shiklomanov, M. C. Dietze, and S. P. Serbin. 2019. The influence
 DOI: https://doi.org/10.1371/journal.pone.0216512 <br>
 Funding agency: NASA Terrestrial Ecology, NNX14AH65G <br>
 
-Zenodo Archive DOI
+Zenodo Archive DOI <br>
 [![DOI](https://zenodo.org/badge/157219021.svg)](https://zenodo.org/badge/latestdoi/157219021)
